@@ -1,0 +1,39 @@
+{
+  "cryptos": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "BCH",
+    "LTC",
+    "ADA",
+    "XLM",
+    "NEO",
+    "XEM",
+    "EOS",
+    "DASH",
+    "IOT",
+    "XMR",
+    "ZEC",
+    "XRB"
+  ],
+  "cryptoName": [
+    "Bitcoin",
+    "Ethereum",
+    "Ripple",
+    "BitcoinCash",
+    "Litecoin",
+    "Cardano",
+    "Stellar",
+    "NEO",
+    "NEM",
+    "EOS",
+    "Dash",
+    "IOTA",
+    "Monero",
+    "Zcash",
+    "Nano"
+  ],
+  "thumbprint": [
+    "7D:0F:29:7B:5E:2F:F0:DB:19:FC:BD:0D:33:48:50:63:CF:8F:05:C0"
+  ]
+}
